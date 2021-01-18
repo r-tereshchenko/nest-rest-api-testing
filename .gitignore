@@ -1,6 +1,8 @@
 # compiled output
 /dist
 /node_modules
+/config
+/config/keys.dev.ts
 
 # Logs
 logs
